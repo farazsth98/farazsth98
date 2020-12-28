@@ -1,6 +1,7 @@
 # About me
 
-* Security Researcher
+* Security Engineer
+    * Focused on hacking browsers
 * CTF player @ [Super Guesser](https://guesser.team)
 
 # CTFs
