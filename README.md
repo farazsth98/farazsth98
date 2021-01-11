@@ -6,6 +6,8 @@
 
 # CTFs
 
+* **Real World CTF 2021** - **10th place** (Team Super Guesser)
+* **TetCTF 2021** - **2nd Place** (Team Super Guesser)
 * **hxp CTF 2020** - **3rd Place** (Team perfect guesser)
 * **WACTF 2020** - **1st Place** (Team 64Bit-GuessGods)
 * **pbctf 2020** - **2nd Place** (Team Super Guesser)
