@@ -1,5 +1,5 @@
 # About me
 
-* Security Engineer
-    * 0day and Nday research on browsers
-* CTF player @ [Super Guesser](https://guesser.team)
+* Security Engineer for a private security firm
+   * Focusing on browser 0-day and N-day research
+* CTF player for team [Super Guesser](https://guesser.team)
