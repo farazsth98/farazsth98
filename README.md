@@ -1,5 +1,5 @@
 # About me
 
 * Security Researcher 
-   * Mostly hacking browsers and mobile operating systems
-* CTF player for team [Super Guesser](https://ctftime.org/team/130817)
+   * Used to focus mostly on browsers and mobile operating systems
+   * Now learning about smart contract hacking
