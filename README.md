@@ -1,5 +1,5 @@
 # About me
 
 * Security Researcher 
-   * Used to focus mostly on browsers and mobile operating systems
+   * Ex-hacker of Chrome and Android userland
    * Now a hacker of blockchains
