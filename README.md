@@ -1,4 +1,4 @@
 # About me
 
-* Blockchain hacker
+* Blockchain Security Engineer
 * Ex chrome + android security researcher
