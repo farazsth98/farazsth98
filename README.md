@@ -1,4 +1,4 @@
 # About me
 
-* Blockchain Security Engineer
-* Ex chrome + android security researcher
+* Blockchain Security Engineer @ Zellic
+* Previously Android Vulnerability Researcher @ Dataflow Security
